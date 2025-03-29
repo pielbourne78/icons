@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+.icons i {
+    font-size: 50px; /* Adjust the size as needed */
+}
+
+.icn {
+    font-size: 60px; /* Slightly bigger for emphasis */
+}
